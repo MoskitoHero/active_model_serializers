@@ -16,4 +16,4 @@ gem 'pry-byebug'
 # The Serialization libs benchmarked:
 gem 'active_model_serializers'
 gem 'jsonapi-rb'
-gem 'barley', path: '../../../barley'
+gem 'barley'
